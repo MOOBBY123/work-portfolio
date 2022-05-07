@@ -1,0 +1,27 @@
+body {
+    background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255,0.7)), url('images/DEE_0655.jpg');
+    background-size: 100% auto;
+}
+
+.navbar-nav {
+    margin-left: 65%;
+}
+
+.navbar-brand {
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Roboto';
+    text-align: center;
+    padding-top: 20%;
+    color: #3a3e7e;
+    
+}
+
+p {
+    font-family: 'Roboto Serif';
+    text-align: center;
+    color: #15658d;
+}

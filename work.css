@@ -1,0 +1,41 @@
+body {
+    background-color: #efecfd;
+    text-align: center;
+}
+
+.navbar-nav {
+    margin-left: 65%;
+}
+
+.navbar-brand {
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Roboto';
+    text-align: center;
+    color: #15658d;
+    font-weight: 900;
+    margin: 3% 0;
+}
+
+h2 {
+    font-family: 'Roboto Serif';
+    font-size: 20px;
+    color:#15658d;
+    margin-top: 4%;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #15658d;
+    width: 100%;
+    text-align: justify;
+}
+
+.work-images {
+    width: 40%;
+    height: auto;
+    margin: auto;
+}
