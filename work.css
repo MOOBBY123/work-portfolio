@@ -1,4 +1,6 @@
 body {
+    height: 100%;
+    width: 100%;
     background-color: #efecfd;
     text-align: center;
 }
@@ -35,7 +37,6 @@ p {
 }
 
 .work-images {
-    width: 40%;
-    height: auto;
+    width: 35%;
     margin: auto;
 }

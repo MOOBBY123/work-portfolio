@@ -1,6 +1,7 @@
+
 body {
-    background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255,0.7)), url('images/DEE_0655.jpg');
-    background-size: 100% auto;
+    background-color: #efecfd;
+    text-align: center;
 }
 
 .navbar-nav {
@@ -15,13 +16,40 @@ body {
 h1 {
     font-family: 'Roboto';
     text-align: center;
-    padding-top: 20%;
+    padding-top: 2%;
     color: #3a3e7e;
     
 }
 
+h5 {
+    color: #3a3e7e;
+    margin: 0 auto 2%;
+    width: 80%;
+}
+
 p {
-    font-family: 'Roboto Serif';
-    text-align: center;
-    color: #15658d;
+    font-family: 'Open Sans', sans-serif;
+    color: #15658D;
+    margin: 0;
+}
+
+.testimonial-img {
+    margin: 1%;
+    width: 10%;
+    border-radius: 50%;
+}
+
+.carousel-bg {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 4%;
+}
+
+.carousel-mg {
+    margin: 90%;
+}
+
+.card-text {
+    font-size: 5px !important;
 }

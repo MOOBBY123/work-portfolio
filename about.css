@@ -1,5 +1,7 @@
 body {
     background-color: #efecfd;
+    height: 100%;
+    width: 100%;
 }
 
 .navbar-nav {
@@ -26,19 +28,23 @@ h2 {
     margin-top: 4%;
 }
 
-p {
+/* p {
     font-family: 'Open Sans', sans-serif;
     color: #15658d;
     width: 100%;
     text-align: justify;
-}
+} */
 
 .abt-img {
     width: 100%;
-    height: 50%;
+    height: 20%;
 }
 
 
-.about-me {
-   padding: 0 2%;
+/* .about-me {
+   padding: 0 10%;
+} */
+
+.work-padding {
+    padding: 0 2%;
 }
