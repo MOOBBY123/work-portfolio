@@ -46,3 +46,12 @@ p {
 .contact-btn {
     margin: 1% 0;
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
