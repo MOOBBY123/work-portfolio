@@ -68,3 +68,7 @@ h5 {
 .exp-m {
     margin-bottom: 22%;
 }
+
+@media (max-width: 425px) {
+    
+}
